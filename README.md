@@ -1,2 +1,2 @@
 # XR interactive
-<h3>site is live at http://xri.com.bd/ </h3>
+<h3>site is live at https://akmahim.github.io/XR-Interactive/</h3>
